@@ -1,18 +1,17 @@
 <template>
   <div>
-    <router-view/>
-    <FooterGuide/>
+    <router-view />
+    <FooterGuide />
   </div>
 </template>
 <script>
-import FooterGuide from './components/FooterGuide/FooterGuide'
+import FooterGuide from './components/FooterGuide/FooterGuide.vue'
 export default {
-  comments: {
+  components: {
     FooterGuide
   }
 }
 </script>
 <style lang="stylus" rel="stylesheet/stylus" scoped>
-  #app
-    color red
+ 
 </style>

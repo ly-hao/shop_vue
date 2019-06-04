@@ -29,5 +29,11 @@ module.exports = {
     'indent': 'off',
     'no-multiple-empty-lines': 'off',
     'eol-last': 'off',
+    'space-before-function-paren': 'off',
+    'block-spacing': 'off',
+    'spaced-comment': 'off',
+    'comma-spacing': 'off',
+    'key-spacing': 'off',
+    
   }
 }
