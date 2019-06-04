@@ -1,7 +1,7 @@
 <template>
   <section class="msite">
     <!--首页头部-->
-    <Header title="xxx">
+    <Header title="首页">
       <span class="header_login" slot="right">
         <span class="header_login_text">登录|注册</span>
       </span>
